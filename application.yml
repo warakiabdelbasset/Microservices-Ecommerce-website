@@ -12,7 +12,7 @@ microservice:
   payment-service:
     endpoints:
       endpoint:
-        uri: http://PAYMENT-SERVICE/payment/doPayment
+        uri: http://payment-service/payment/doPayment
   order-service:
     endpoints:
       endpoint:
